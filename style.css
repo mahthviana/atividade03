@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+    background-color: black;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 152px;
+    font-family: "inter Tight", sans-serif;
+}
+
+h1 a{
+    font-family: "Open-sans", sans-serif;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-decoration: none;
+    color: #ba1d0a;
+}
+
+input{
+    width: 200px
+}
+
+.password{
+    margin-top: 35px;
+    margin-right: 23px;
+}
+
+.email{
+    margin-right: 23px;
+}
+
+.submit{
+    width: 80px;
+    text-transform: uppercase;
+    background-color: rgba(100, 100, 100, 0.5);
+    color: #FFFFFF;
+    background-size: cover;
+    margin-top: 19px;
+}
+
+.esqueceu{
+    margin-top: 25px;
+    color: #1E90FF;
+}
